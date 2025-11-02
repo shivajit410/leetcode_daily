@@ -9,3 +9,4 @@ Solve leetcode questions daily
 | 4       | 30/10/2025 | Maximum Average Subarray        |
 | 5       | 31/10/2025 | Contains Duplicate              |
 | 6       | 01/11/2025 | Minimum Size Subarray Sum       |
+| 7       | 02/11/2025 | Palindrom                       |
