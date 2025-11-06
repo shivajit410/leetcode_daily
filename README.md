@@ -13,3 +13,4 @@ Solve leetcode questions daily
 | 8       | 03/11/2025 | Roman To Integer                         |
 | 9       | 04/11/2025 | Longest Substring without Repeating Char |
 | 10      | 05/11/2025 | Longest Repeating Character Replacement  |
+| 11      | 06/11/2025 | Valid Palindrome                         |
