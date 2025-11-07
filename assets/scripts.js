@@ -229,7 +229,12 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             const token = tokenPatterns[patternIndex];
-            return `<span class="${token.type}">${match}</span>`;
+            if(match.includes('Problem') || match.includes('Solution')) {
+                let commentLink = match.split(' ');
+                return `<span class="${token.type}">${commentLink[0]} ${commentLink[1]} <a style="color: cyan" target="_blank" href="${commentLink[2].trim()}">${commentLink[2].trim()}</a></span>`;
+            } else {
+                return `<span class="${token.type}">${match}</span>`;
+            }
         });
     }
 

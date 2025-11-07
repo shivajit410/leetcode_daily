@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/two-sum/description
+// Solution: https://leetcode.com/problems/two-sum/submissions/1813788312
 
 var twoSum = function(nums, target) {
     const myMap = new Map();
