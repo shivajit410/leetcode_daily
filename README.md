@@ -14,3 +14,4 @@ Solve leetcode questions daily
 | 9       | 04/11/2025 | Longest Substring without Repeating Char |
 | 10      | 05/11/2025 | Longest Repeating Character Replacement  |
 | 11      | 06/11/2025 | Valid Palindrome                         |
+| 12      | 07/11/2025 | Remove Duplicate From Sorted             |
