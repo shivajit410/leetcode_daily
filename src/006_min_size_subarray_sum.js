@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/minimum-size-subarray-sum/
+// Solution: https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1817668645
 
 // This solution is implemented using Sliding Window
 // Will work only if nums[i] is a positive number

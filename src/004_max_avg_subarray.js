@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/maximum-average-subarray-i/
+// Solution: https://leetcode.com/problems/maximum-average-subarray-i/submissions/1815665319
 
 const maxAverageSubarray = (nums, k) => {
 

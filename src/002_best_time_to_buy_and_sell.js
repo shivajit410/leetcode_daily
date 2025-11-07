@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description
+// Solution: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1813814162
 
 var maxProfit = (prices) => {
     let profit = 0;

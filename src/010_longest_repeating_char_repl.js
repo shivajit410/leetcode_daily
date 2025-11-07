@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/longest-repeating-character-replacement
+// Solution: https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1821293133
 
 var charReplacement = (s, k) => {
     const freqObj = {};

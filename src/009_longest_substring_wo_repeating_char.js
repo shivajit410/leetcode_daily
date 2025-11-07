@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/longest-substring-without-repeating-characters/description
+// Solution: https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1820564456
 
 const longestSubstring = (s) => {
     if (!s) {

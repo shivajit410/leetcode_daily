@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/contains-duplicate-ii/description
+// Solution: https://leetcode.com/problems/contains-duplicate-ii/submissions/1816523492
 
 const containsDuplicate = (nums, k) => {
 

@@ -1,4 +1,5 @@
 // Problem: https://leetcode.com/problems/valid-palindrome/description
+// Solution: https://leetcode.com/problems/valid-palindrome/submissions/1822125431
 
 const validPalindrome = (s) => {
     let result = '';

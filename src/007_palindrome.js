@@ -1,4 +1,5 @@
-// https://leetcode.com/problems/palindrome-number/description
+// Problem: https://leetcode.com/problems/palindrome-number/description
+// Solution: https://leetcode.com/problems/palindrome-number/submissions/1818675830
 
 const palindrome = (x) => {
     let rev = 0;
