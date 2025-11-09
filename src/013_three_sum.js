@@ -1,6 +1,25 @@
 // Problem: https://leetcode.com/problems/3sum/description
 // Solution: https://leetcode.com/problems/3sum/submissions/1824396932
 
+// Code Approach - Extended version of 2Sum
+// Need to sort the array first for this approach to work
+// Sorting helps reduce the time complexity from N^3 to N^2
+// Used 2 Pointer Approach, where low = first element, high = last element
+// Since the array is sorted we can work with conditions like 
+// Sum found -> add the elements in the result, update pointers
+// Sum greater than target, reduce high pointer
+// Sum less than target, increase low pointer
+// Edge Cases -
+// 1. if condition -> to remove the duplicate elements in the start
+// 2. While condition -> to remove the duplicates in between
+// Need to handle it this way because, in problem it was mentioned that
+// No need to add duplicate elements.
+// I know i will think that why can't I use set.
+// Because, it will still keep the TC to O(N^2), Increases SC
+// You can add duplicate objects in a set. to eliminate it you will probably convert
+// it to a string and then add, thus increasing the processing overhead!!!
+
+
 var threeSum = (nums) => {
 
     let result = [];
