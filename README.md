@@ -18,3 +18,4 @@ Solve leetcode questions daily
 | 13      | 08/11/2025 | Three Sum                                |
 | 14      | 09/11/2025 | Three Sum Closest                        |
 | 15      | 10/11/2025 | Valid Triangle Numbers                   |
+| 16      | 11/11/2025 | Rain Water Trapping                      |
