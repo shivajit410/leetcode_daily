@@ -1,5 +1,5 @@
 // Problem: https://leetcode.com/problems/container-with-most-water/description
-// Solutiion: https://leetcode.com/problems/container-with-most-water/submissions/1827701261
+// Solution: https://leetcode.com/problems/container-with-most-water/submissions/1827701261
 
 // Intuition: Dont get this confused with Rain Water Trapping Problem
 // This problem is not concerned about how much water is actually trapped
