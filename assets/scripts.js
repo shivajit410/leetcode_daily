@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (cached) {
                 const json = JSON.parse(cached);
                  allFiles = json
-                    .filter(item => item.type === "file" && item.name.endsWith('.txt'))
+                    .filter(item => item.type === "file" && item.name.endsWith('.js'))
                     .map(item => ({
                         ...item,
                         DisplayName: formatDisplayName(item.name)
