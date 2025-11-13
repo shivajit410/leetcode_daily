@@ -20,6 +20,9 @@ var hasCycle = function(head) {
     return false;
 };
 
+
+// Helper code for Linked list logic
+
 // Definition for singly-linked list
 class ListNode {
     constructor(val) {
@@ -27,7 +30,6 @@ class ListNode {
         this.next = null;
     }
 }
-
 
 // Helper to create a linked list with a cycle
 function createLinkedList(arr, pos) {
@@ -76,7 +78,6 @@ function printLinkedListWithCycleInfo(head) {
     output += 'null';
     console.log(output);
 }
-
 
 
 // Testcase
