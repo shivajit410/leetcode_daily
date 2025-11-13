@@ -2,7 +2,7 @@
 // Solution: https://leetcode.com/problems/trapping-rain-water/submissions/1826881317
 
 
-// Intuition: For every building, we need the leftMax and rightMax
+// Intuition - For every building, we need the leftMax and rightMax
 // Having that, get the smallest of the two 
 // we can get the amount of water that can be trapped above that
 // Generating PrefixArray and SuffixArray can get you the leftMax and rightMax

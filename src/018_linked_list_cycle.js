@@ -1,7 +1,7 @@
 // Problem: https://leetcode.com/problems/linked-list-cycle/description
 // Solution: https://leetcode.com/problems/linked-list-cycle/submissions/1828466772
 
-// Alogrithm Name: Floyd's Algorithm
+// Alogrithm Name - Floyd's Algorithm
 // Use 2 pointers -> slow and fast pointer
 
 // Code

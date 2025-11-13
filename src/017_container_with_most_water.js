@@ -1,7 +1,8 @@
 // Problem: https://leetcode.com/problems/container-with-most-water/description
 // Solution: https://leetcode.com/problems/container-with-most-water/submissions/1827701261
 
-// Intuition: Dont get this confused with Rain Water Trapping Problem
+
+// Intuition - Dont get this confused with Rain Water Trapping Problem
 // This problem is not concerned about how much water is actually trapped
 // But if there are two walls, how much water can be actually stored in between them
 // So ignore the buildings in between (i,j)
