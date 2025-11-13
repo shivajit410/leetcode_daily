@@ -20,3 +20,4 @@ Solve leetcode questions daily
 | 15      | 10/11/2025 | Valid Triangle Numbers                   |
 | 16      | 11/11/2025 | Rain Water Trapping                      |
 | 17      | 12/11/2025 | Container with most Water                |
+| 18      | 13/11/2025 | Linked list cycle                        |
