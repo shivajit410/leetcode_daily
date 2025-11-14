@@ -21,3 +21,4 @@ Solve leetcode questions daily
 | 16      | 11/11/2025 | Rain Water Trapping                      |
 | 17      | 12/11/2025 | Container with most Water                |
 | 18      | 13/11/2025 | Linked list cycle                        |
+| 19      | 14/11/2025 | Middle of Linked list                    |
