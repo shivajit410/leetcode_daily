@@ -1,6 +1,8 @@
 // Problem: https://leetcode.com/problems/find-the-duplicate-number/
 // Solution: https://leetcode.com/problems/find-the-duplicate-number/submissions/1830585836/
 
+// Intuition - Think of it like a Floyd Algorithm
+// Where we use slow pointer and fast pointer
 var findDuplicate = function(nums) {
     let slow = nums[0];
     let fast = nums[0];
