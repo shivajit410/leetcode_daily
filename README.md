@@ -25,3 +25,4 @@ Solve leetcode questions daily
 | 20      | 15/11/2025 | Find Duplicate                           |
 | 21      | 16/11/2025 | Ransom Note                              |
 | 22      | 17/11/2025 | Remove Element                           |
+| 23      | 18/11/2025 | Valid Anagram                            |
