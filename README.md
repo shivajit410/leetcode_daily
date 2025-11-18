@@ -26,3 +26,4 @@ Solve leetcode questions daily
 | 21      | 16/11/2025 | Ransom Note                              |
 | 22      | 17/11/2025 | Remove Element                           |
 | 23      | 18/11/2025 | Valid Anagram                            |
+| 24      | 18/11/2025 | Group Anagram                            |
