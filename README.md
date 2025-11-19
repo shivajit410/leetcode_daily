@@ -27,3 +27,4 @@ Solve leetcode questions daily
 | 22      | 17/11/2025 | Remove Element                           |
 | 23      | 18/11/2025 | Valid Anagram                            |
 | 24      | 18/11/2025 | Group Anagram                            |
+| 25      | 19/11/2025 | Pivot Index                              |
