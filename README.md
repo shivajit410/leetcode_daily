@@ -28,3 +28,4 @@ Solve leetcode questions daily
 | 23      | 18/11/2025 | Valid Anagram                            |
 | 24      | 18/11/2025 | Group Anagram                            |
 | 25      | 19/11/2025 | Pivot Index                              |
+| 26      | 20/11/2025 | Set Intersection Size Atleast Two        |
