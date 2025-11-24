@@ -1,5 +1,5 @@
 // Problem: https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/
-// Solution: 
+// Solution: https://leetcode.com/problems/keep-multiplying-found-values-by-two/submissions/1833866805/
 
 const findFinalValue = (nums, original) => {
 
@@ -13,6 +13,7 @@ const findFinalValue = (nums, original) => {
     return original;
 }
 
+// Testcase
 const nums = [5,3,6,1,12];
 const original = 3;
 console.log(findFinalValue(nums, original))
