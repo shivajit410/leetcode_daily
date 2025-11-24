@@ -32,3 +32,4 @@ Solve leetcode questions daily
 | 27      | 20/11/2025 | Keep multiplying found values by 2       |
 | 28      | 21/11/2025 | Max Consecutive Ones                     |
 | 29      | 22/11/2025 | Set Mismatch                             |
+| 20      | 24/11/2025 | Binary Prefix Divisible By 5             |
