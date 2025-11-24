@@ -6,26 +6,34 @@
 // To handle big numbers instead of bigInt, do modulo by 5
 const prefixDivBy5 = (nums) => {
     let N = nums.length;
-    let cur = nums[0];
     let result = [];
-    if (cur % 5 === 0) {
-        result.push(true);
-    } else {
-        result.push(false);
-    }
+    let cur = nums[0];
+    result.push(cur%5 === 0)
 
     for (let i = 1; i < N; i++) {
         cur = (2 * cur + nums[i]) % 5;
-        if (cur % 5 === 0) {
-            result.push(true);
-        } else {
-            result.push(false);
-        }
+        result.push(cur%5 === 0)
     }
     return result;
+}
+
+// Bit Manipulation method
+
+const prefixDivBy5BM = (nums) => {
+    let N = nums.length;
+    let result = [];
+    let bin = 0;
+    nums.forEach(x => {
+        bin = (bin << 1) + x;
+        bin %= 5;
+        result.push(bin === 0)
+    });
+    return result
 }
 
 // Testcase:
 
 let nums = [1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1];
 console.log(prefixDivBy5(nums))
+console.log(prefixDivBy5BM(nums))
+// console.log(JSON.stringify(prefixDivBy5(nums)) === JSON.stringify(prefixDivBy5BM(nums)))
