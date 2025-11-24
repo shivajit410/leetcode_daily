@@ -1,0 +1,18 @@
+// Problem: https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/
+// Solution: 
+
+const findFinalValue = (nums, original) => {
+
+    nums.sort((a, b) => a - b);
+
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] === original) {
+            original *= 2;
+        }
+    }
+    return original;
+}
+
+const nums = [5,3,6,1,12];
+const original = 3;
+console.log(findFinalValue(nums, original))

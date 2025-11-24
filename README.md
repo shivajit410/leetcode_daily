@@ -29,3 +29,4 @@ Solve leetcode questions daily
 | 24      | 18/11/2025 | Group Anagram                            |
 | 25      | 19/11/2025 | Pivot Index                              |
 | 26      | 20/11/2025 | Set Intersection Size Atleast Two        |
+| 27      | 20/11/2025 | Keep multiplying found values by 2       |
