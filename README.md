@@ -31,3 +31,4 @@ Solve leetcode questions daily
 | 26      | 20/11/2025 | Set Intersection Size Atleast Two        |
 | 27      | 20/11/2025 | Keep multiplying found values by 2       |
 | 28      | 21/11/2025 | Max Consecutive Ones                     |
+| 29      | 22/11/2025 | Set Mismatch                             |
