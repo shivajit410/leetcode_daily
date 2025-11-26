@@ -34,3 +34,4 @@ Solve leetcode questions daily
 | 29      | 22/11/2025 | Set Mismatch                             |
 | 30      | 24/11/2025 | Binary Prefix Divisible By 5             |
 | 31      | 25/11/2025 | Smallest Int Divisible by k              |
+| 32      | 26/11/25   | Subarray Sum Equals k                    |
