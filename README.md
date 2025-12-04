@@ -36,3 +36,4 @@ Solve leetcode questions daily
 | 31      | 25/11/2025 | Smallest Int Divisible by k                     |
 | 32      | 26/11/2025 | Subarray Sum Equals k                           |
 | 33      | 02/12/2025 | Maximum Subarray Sum With Length Divisible by K |
+| 34      | 04/12/2025 | Count Collision on Road                         |
