@@ -37,3 +37,4 @@ Solve leetcode questions daily
 | 32      | 26/11/2025 | Subarray Sum Equals k                           |
 | 33      | 02/12/2025 | Maximum Subarray Sum With Length Divisible by K |
 | 34      | 04/12/2025 | Count Collision on Road                         |
+| 35      | 05/12/2025 | Count Partition with Even Sum Difference        |
