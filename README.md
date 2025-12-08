@@ -39,3 +39,4 @@ Solve leetcode questions daily
 | 34      | 04/12/2025 | Count Collision on Road                         |
 | 35      | 05/12/2025 | Count Partition with Even Sum Difference        |
 | 36      | 08/12/2025 | Count Odd Numbers in Interval Range             |
+| 37      | 08/12/2025 | Count square sum triples                        |
