@@ -41,3 +41,4 @@ Solve leetcode questions daily
 | 36      | 08/12/2025 | Count Odd Numbers in Interval Range             |
 | 37      | 08/12/2025 | Count square sum triples                        |
 | 38      | 09/12/2025 | Count Special Triples                           |
+| 39      | 12/12/2025 | Count Mentions Per User                         |
