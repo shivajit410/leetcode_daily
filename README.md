@@ -42,3 +42,4 @@ Solve leetcode questions daily
 | 37      | 08/12/2025 | Count square sum triples                        |
 | 38      | 09/12/2025 | Count Special Triples                           |
 | 39      | 12/12/2025 | Count Mentions Per User                         |
+| 40      | 13/12/2025 | Coupon Code Validator                           |
