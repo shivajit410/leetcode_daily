@@ -43,3 +43,4 @@ Solve leetcode questions daily
 | 38      | 09/12/2025 | Count Special Triples                           |
 | 39      | 12/12/2025 | Count Mentions Per User                         |
 | 40      | 13/12/2025 | Coupon Code Validator                           |
+| 41      | 23/12/2025 | Two Best Non-Overlapping Events                 |
