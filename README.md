@@ -45,3 +45,4 @@ Solve leetcode questions daily
 | 40      | 13/12/2025 | Coupon Code Validator                           |
 | 41      | 23/12/2025 | Two Best Non-Overlapping Events                 |
 | 42      | 02/01/2026 | Apple Redistribution into Boxes                 |
+| 43      | 02/01/2026 | N-Repeated Element in Size 2N Array             |
