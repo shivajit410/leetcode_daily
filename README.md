@@ -48,3 +48,4 @@ Solve leetcode questions daily
 | 43      | 02/01/2026 | N-Repeated Element in Size 2N Array             |
 | 44      | 04/01/2026 | Four Divisors                                   |
 | 45      | 05/01/2026 | Maximum Matrix Sum                              |
+| 46      | 06/01/2026 | Maximum Level Sum                               |
