@@ -49,3 +49,4 @@ Solve leetcode questions daily
 | 44      | 04/01/2026 | Four Divisors                                   |
 | 45      | 05/01/2026 | Maximum Matrix Sum                              |
 | 46      | 06/01/2026 | Maximum Level Sum                               |
+| 47      | 08/01/2026 | Majority Element                                |
