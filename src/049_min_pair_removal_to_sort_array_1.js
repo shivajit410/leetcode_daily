@@ -46,3 +46,12 @@ var minimumPairRemoval = function(nums) {
 
     return result
 };
+
+// Testcase:
+const tests = [
+    [1,3,2,4,5],
+    [5,2,3,1],
+    [1,2,2]
+];
+
+tests.forEach((num) => console.log(minimumPairRemoval(num)));
