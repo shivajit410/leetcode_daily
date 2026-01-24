@@ -1,5 +1,5 @@
-// Problem: 
-// Solution: 
+// Problem: https://leetcode.com/problems/single-number/description/
+// Solution: https://leetcode.com/problems/single-number/submissions/1879892890/
 
 // Intuition -> Use Bitwise XOR
 // Set result = 0;
