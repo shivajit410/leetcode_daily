@@ -50,4 +50,5 @@ Solve leetcode questions daily
 | 45      | 05/01/2026 | Maximum Matrix Sum                              |
 | 46      | 06/01/2026 | Maximum Level Sum                               |
 | 47      | 08/01/2026 | Majority Element                                |
-| 48      | 09/01/2025 | Single Number                                   |
+| 48      | 09/01/2026 | Single Number                                   |
+| 49      | 24/01/2026 | Minimum Pair Removal to Sort Array 1            |
