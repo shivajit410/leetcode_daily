@@ -1,56 +1,57 @@
 # leetcode_daily
 Solve leetcode questions daily
 
-| Sr. No. | Date       | Question                                        |
-| ------- | ---------- | ----------------------------------------------- |
-| 1       | 28/10/2025 | Two Sum                                         |
-| 2       | 28/10/2025 | Best Time to Buy and Sell Stock                 |
-| 3       | 29/10/2025 | Maximum Subarray Sum                            |
-| 4       | 30/10/2025 | Maximum Average Subarray                        |
-| 5       | 31/10/2025 | Contains Duplicate                              |
-| 6       | 01/11/2025 | Minimum Size Subarray Sum                       |
-| 7       | 02/11/2025 | Palindrome                                      |
-| 8       | 03/11/2025 | Roman To Integer                                |
-| 9       | 04/11/2025 | Longest Substring without Repeating Char        |
-| 10      | 05/11/2025 | Longest Repeating Character Replacement         |
-| 11      | 06/11/2025 | Valid Palindrome                                |
-| 12      | 07/11/2025 | Remove Duplicate From Sorted Array              |
-| 13      | 08/11/2025 | Three Sum                                       |
-| 14      | 09/11/2025 | Three Sum Closest                               |
-| 15      | 10/11/2025 | Valid Triangle Numbers                          |
-| 16      | 11/11/2025 | Rain Water Trapping                             |
-| 17      | 12/11/2025 | Container with most Water                       |
-| 18      | 13/11/2025 | Linked list cycle                               |
-| 19      | 14/11/2025 | Middle of Linked list                           |
-| 20      | 15/11/2025 | Find Duplicate                                  |
-| 21      | 16/11/2025 | Ransom Note                                     |
-| 22      | 17/11/2025 | Remove Element                                  |
-| 23      | 18/11/2025 | Valid Anagram                                   |
-| 24      | 18/11/2025 | Group Anagram                                   |
-| 25      | 19/11/2025 | Pivot Index                                     |
-| 26      | 20/11/2025 | Set Intersection Size Atleast Two               |
-| 27      | 20/11/2025 | Keep multiplying found values by 2              |
-| 28      | 21/11/2025 | Max Consecutive Ones                            |
-| 29      | 22/11/2025 | Set Mismatch                                    |
-| 30      | 24/11/2025 | Binary Prefix Divisible By 5                    |
-| 31      | 25/11/2025 | Smallest Int Divisible by k                     |
-| 32      | 26/11/2025 | Subarray Sum Equals k                           |
-| 33      | 02/12/2025 | Maximum Subarray Sum With Length Divisible by K |
-| 34      | 04/12/2025 | Count Collision on Road                         |
-| 35      | 05/12/2025 | Count Partition with Even Sum Difference        |
-| 36      | 08/12/2025 | Count Odd Numbers in Interval Range             |
-| 37      | 08/12/2025 | Count square sum triples                        |
-| 38      | 09/12/2025 | Count Special Triples                           |
-| 39      | 12/12/2025 | Count Mentions Per User                         |
-| 40      | 13/12/2025 | Coupon Code Validator                           |
-| 41      | 23/12/2025 | Two Best Non-Overlapping Events                 |
-| 42      | 02/01/2026 | Apple Redistribution into Boxes                 |
-| 43      | 02/01/2026 | N-Repeated Element in Size 2N Array             |
-| 44      | 04/01/2026 | Four Divisors                                   |
-| 45      | 05/01/2026 | Maximum Matrix Sum                              |
-| 46      | 06/01/2026 | Maximum Level Sum                               |
-| 47      | 08/01/2026 | Majority Element                                |
-| 48      | 09/01/2026 | Single Number                                   |
-| 49      | 24/01/2026 | Minimum Pair Removal to Sort Array 1            |
-| 50      | 24/01/2026 | Minimize Maximum Pair Sum in Array              |
-| 51      | 26/01/2026 | Minimum Absolute Difference                     |
+| Sr. No. | Date       | Question                                                  |
+| ------- | ---------- | --------------------------------------------------------- |
+| 1       | 28/10/2025 | Two Sum                                                   |
+| 2       | 28/10/2025 | Best Time to Buy and Sell Stock                           |
+| 3       | 29/10/2025 | Maximum Subarray Sum                                      |
+| 4       | 30/10/2025 | Maximum Average Subarray                                  |
+| 5       | 31/10/2025 | Contains Duplicate                                        |
+| 6       | 01/11/2025 | Minimum Size Subarray Sum                                 |
+| 7       | 02/11/2025 | Palindrome                                                |
+| 8       | 03/11/2025 | Roman To Integer                                          |
+| 9       | 04/11/2025 | Longest Substring without Repeating Char                  |
+| 10      | 05/11/2025 | Longest Repeating Character Replacement                   |
+| 11      | 06/11/2025 | Valid Palindrome                                          |
+| 12      | 07/11/2025 | Remove Duplicate From Sorted Array                        |
+| 13      | 08/11/2025 | Three Sum                                                 |
+| 14      | 09/11/2025 | Three Sum Closest                                         |
+| 15      | 10/11/2025 | Valid Triangle Numbers                                    |
+| 16      | 11/11/2025 | Rain Water Trapping                                       |
+| 17      | 12/11/2025 | Container with most Water                                 |
+| 18      | 13/11/2025 | Linked list cycle                                         |
+| 19      | 14/11/2025 | Middle of Linked list                                     |
+| 20      | 15/11/2025 | Find Duplicate                                            |
+| 21      | 16/11/2025 | Ransom Note                                               |
+| 22      | 17/11/2025 | Remove Element                                            |
+| 23      | 18/11/2025 | Valid Anagram                                             |
+| 24      | 18/11/2025 | Group Anagram                                             |
+| 25      | 19/11/2025 | Pivot Index                                               |
+| 26      | 20/11/2025 | Set Intersection Size Atleast Two                         |
+| 27      | 20/11/2025 | Keep multiplying found values by 2                        |
+| 28      | 21/11/2025 | Max Consecutive Ones                                      |
+| 29      | 22/11/2025 | Set Mismatch                                              |
+| 30      | 24/11/2025 | Binary Prefix Divisible By 5                              |
+| 31      | 25/11/2025 | Smallest Int Divisible by k                               |
+| 32      | 26/11/2025 | Subarray Sum Equals k                                     |
+| 33      | 02/12/2025 | Maximum Subarray Sum With Length Divisible by K           |
+| 34      | 04/12/2025 | Count Collision on Road                                   |
+| 35      | 05/12/2025 | Count Partition with Even Sum Difference                  |
+| 36      | 08/12/2025 | Count Odd Numbers in Interval Range                       |
+| 37      | 08/12/2025 | Count square sum triples                                  |
+| 38      | 09/12/2025 | Count Special Triples                                     |
+| 39      | 12/12/2025 | Count Mentions Per User                                   |
+| 40      | 13/12/2025 | Coupon Code Validator                                     |
+| 41      | 23/12/2025 | Two Best Non-Overlapping Events                           |
+| 42      | 02/01/2026 | Apple Redistribution into Boxes                           |
+| 43      | 02/01/2026 | N-Repeated Element in Size 2N Array                       |
+| 44      | 04/01/2026 | Four Divisors                                             |
+| 45      | 05/01/2026 | Maximum Matrix Sum                                        |
+| 46      | 06/01/2026 | Maximum Level Sum                                         |
+| 47      | 08/01/2026 | Majority Element                                          |
+| 48      | 09/01/2026 | Single Number                                             |
+| 49      | 24/01/2026 | Minimum Pair Removal to Sort Array 1                      |
+| 50      | 24/01/2026 | Minimize Maximum Pair Sum in Array                        |
+| 51      | 26/01/2026 | Minimum Absolute Difference                               |
+| 52      | 26/01/2026 | Minimum Difference Between Highest and Lowest Scores of K |
