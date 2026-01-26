@@ -53,3 +53,4 @@ Solve leetcode questions daily
 | 48      | 09/01/2026 | Single Number                                   |
 | 49      | 24/01/2026 | Minimum Pair Removal to Sort Array 1            |
 | 50      | 24/01/2026 | Minimize Maximum Pair Sum in Array              |
+| 51      | 26/01/2026 | Minimum Absolute Difference                     |
