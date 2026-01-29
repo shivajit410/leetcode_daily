@@ -7,6 +7,9 @@
 // Floyd-Warshall algorithm works here because we have a small fixed number of nodes (26 characters).
 // Using Dijkstra's or Bellman-Ford would be overkill and less efficient.
 // Then we can simply sum up the costs to convert each character in the string to the target character.
+// If any character cannot be converted to the target character, we return -1.
+// Time Complexity: O(N + V^3) where N is the length of the source/target strings and V is the number of vertices (26).
+// Space Complexity: O(V^2) for the adjacency matrix.
 
 const minimumCost = (source, target, original, changed, cost) => {
 
