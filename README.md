@@ -55,3 +55,4 @@ Solve leetcode questions daily
 | 50      | 24/01/2026 | Minimize Maximum Pair Sum in Array                        |
 | 51      | 26/01/2026 | Minimum Absolute Difference                               |
 | 52      | 26/01/2026 | Minimum Difference Between Highest and Lowest Scores of K |
+| 53      | 29/01/2026 | Minimum Cost to Convert String 1                          |
